@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Unity Engine
 - 💞️ I’m looking to collaborate on Indie Games
 - 📫 Reach me at : @ravialandra
-- ⚡ Fun fact i want to be a Game Developer but stuck to be Web Developer
+- ⚡ Fun fact: I wanted to be a game developer but ended up being a web developer.
